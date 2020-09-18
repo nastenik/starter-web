@@ -1,1 +1,3 @@
 excl.txt
+*.log
+log/
